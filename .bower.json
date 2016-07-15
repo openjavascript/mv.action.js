@@ -1,8 +1,8 @@
 {
-  "name": "mv.const.js",
-  "main": "mv.const.js",
+  "name": "mv.action.js",
+  "main": "mv.action.js",
   "version": "0.0.1",
-  "homepage": "https://github.com/openjavascript/mv.const.js",
+  "homepage": "https://github.com/openjavascript/mv.action.js",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
   ],
@@ -27,9 +27,9 @@
   "_resolution": {
     "type": "version",
     "tag": "0.0.1",
-    "commit": "89300d140cb3c962fef5383c50d86d4a001974a2"
+    "commit": "3599da3f1e576b4a7b15778f2ce7d8ab51ebe8c6"
   },
-  "_source": "https://github.com/openjavascript/mv.const.js.git",
+  "_source": "https://github.com/openjavascript/mv.action.js.git",
   "_target": "~0.0.1",
-  "_originalSource": "mv.const.js"
+  "_originalSource": "mv.action.js"
 }

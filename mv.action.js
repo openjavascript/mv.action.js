@@ -1,8 +1,13 @@
 
-var V = require( 'mv.js' );
+var V = require( 'mv.js' )
     , BaseHandler = require( 'mv.basehandler.js' )
     , Log = require( 'mv.log.js' )
+    , _CONST = $.extend( true, {
+        
+        }, BaseHandler )
     ;
+
+module.exports = _CONST;
 
 /**
  * 使用 V.WIN触发一个事件
@@ -27,4 +32,5 @@ V.DOC.delegate( '[data-cmd]', 'click', function( _evt ){
             );
     }
 });
+
 
