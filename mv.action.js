@@ -1,7 +1,6 @@
 
 var V = require( 'mv.js' )
     , BaseHandler = require( 'mv.basehandler.js' )
-    , Log = require( 'mv.log.js' )
     , _CONST = $.extend( true, {
         
         }, BaseHandler )
